@@ -1,0 +1,5 @@
+# Table of Contents
+format: jb-book
+root: index
+chapters: 
+  - file: CaptionBookProject.ipynb
